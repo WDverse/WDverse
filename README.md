@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U5emJrNjJvcGRjejBmaXVmdWF5cWh4MmNzM2JvYm43eDF0MjR0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qniErxv3KcFsTkTsb9/giphy.gif" width="2000" height="380"  frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JjaXliN2dzeGd3MzEwcmxxZGloZTlleWVvcHMxeDg3bnBjemMwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rZLPEdPw1fPVGjrW80/giphy.gif" width="2000" height="380"  frameBorder="0" class="giphy-embed" allowFullScreen>
 
 <h3 align="center">I'm a Full Stack Web Developer</h3>
 <img align="right" width"400" alt="Coding gif" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
