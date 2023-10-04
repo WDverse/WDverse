@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://wdverse.github.io/React-portfolio/)
+- 👨‍💻 Check out [My Portfolio](https://wdverse.github.io/React-portfolio/) for some of my projects
 
 - 💬 Ask me about **JavaScript, CSS, HTML, Bootstrap, React**
 
-- 📫 How to reach me: <a href="mailto:wdappiagyei@gmail.com">Email</a>
+- 📫 To reach me, send me an <a href="mailto:wdappiagyei@gmail.com">Email</a>
 
 <p align="left">
 </p>
