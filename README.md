@@ -5,9 +5,8 @@
 
 - 🎨 Check out [My Portfolio](https://wdverse.github.io/React-portfolio/) for some of my projects
 
-- 💬 Ask me about the **MERN Stack**
+- 📫 <a href="mailto:wdappiagyei@gmail.com">Contact me</a>
 
-- 📫 To reach me, send me an <a href="mailto:wdappiagyei@gmail.com">Email</a>
 
 <p align="left">
 </p>
