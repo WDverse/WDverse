@@ -3,9 +3,9 @@
 <h2 align="center"></h2>
 <img align="right" width"400" alt="Coding gif" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🎨 Check out [My Portfolio](https://wdverse.github.io/React-portfolio/) for some of my projects
+- 🎨 [View my portfolio](https://wdverse.github.io/React-portfolio/)
 
-- 📫 <a href="mailto:wdappiagyei@gmail.com">Contact me</a>
+- 📫 <a href="mailto:wdappiagyei@gmail.com">Send me an email</a>
 
 
 <p align="left">
