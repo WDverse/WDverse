@@ -5,7 +5,7 @@
 
 - 🎨 [View my portfolio](https://wdverse.github.io/React-portfolio/)
 
-- 📫 <a href="mailto:wdappiagyei@gmail.com">Send me an email</a>
+- 📩 <a href="mailto:wdappiagyei@gmail.com">Send me an email</a>
 
 
 <p align="left">
